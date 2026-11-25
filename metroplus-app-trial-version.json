@@ -1,6 +1,10 @@
 {
-  "versionCode": 345,
-  "versionName": "2.0.3(39)",
-  "apkUrl": "https://github.com/metroplusone-ai/Metroplus01/releases/download/v2.0.3-39/MetroPlus-v2.0.3-39.apk",
-  "notes": ["# Updater — Naya GitHub", "Ab updates naye GitHub (metroplusone-ai/Metroplus01) se aayengi — app khulne par update check aur app ke andar se update wapas chal rahi hai."]
+  "versionCode": 346,
+  "versionName": "2.0.3(40)",
+  "apkUrl": "https://github.com/metroplusone-ai/Metroplus01/releases/download/v2.0.3-40/MetroPlus-v2.0.3-40.apk",
+  "notes": [
+    "# Money Calculator — Refresh",
+    "Refresh karte waqt logo ab grey dikhega (kaala nahi).",
+    "Upar wala khaali circle khatam — sirf logo aur laal circle dikhenge."
+  ]
 }
