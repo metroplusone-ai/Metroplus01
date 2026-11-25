@@ -1,10 +1,1 @@
-{
-  "versionCode": 346,
-  "versionName": "2.0.3(40)",
-  "apkUrl": "https://github.com/metroplusone-ai/Metroplus01/releases/download/v2.0.3-40/MetroPlus-v2.0.3-40.apk",
-  "notes": [
-    "# Money Calculator — Refresh",
-    "Refresh karte waqt logo ab grey dikhega (kaala nahi).",
-    "Upar wala khaali circle khatam — sirf logo aur laal circle dikhenge."
-  ]
-}
+{"versionCode":347,"versionName":"2.0.3(41)","apkUrl":"https://github.com/metroplusone-ai/Metroplus01/releases/download/v2.0.3-41/MetroPlus-v2.0.3-41.apk","notes":["# Leave — Apni Shift + Copy","Morning ka leave sirf Morning mein, Evening ka sirf Evening mein dikhega.","Leave Detail ke upar Copy Leave button — dikh rahi leave copy ho jayegi."]}
